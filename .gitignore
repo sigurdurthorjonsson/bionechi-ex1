@@ -48,3 +48,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+work.RData
+pktEst.RData
+*.rds
+*.csv
+*.pdf
+*.txt
+!st2area.txt
+!r2area.txt
+!nasc/*.txt
+
+.DS_Store
